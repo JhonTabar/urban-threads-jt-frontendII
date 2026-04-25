@@ -5,9 +5,9 @@ const Hero = () => {
     return (
         <section className="urban-gradient text-white py-20 lg:py-32">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-                <h2 className="hero-text text-8xl md:text-7xl lg:text-8xl font-bold mb-6 tracking-tight text-center">
+                <h2 className="hero-text text-5xl text-6xl md:text-8xl lg:text-9xl font-bold mb-6 tracking-tight">
                     ESTILO URBANO
-                    <span className="block text-amber-400"> REDEFINIDO </span>
+                    <span className="block text-amber-400">REDEFINIDO</span>
                 </h2>
                 <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto font-light text-center">
                     Descubre nuestra colección exclusiva de ropa urbana minimalista
