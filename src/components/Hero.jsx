@@ -3,9 +3,9 @@ import React from 'react'
 
 const Hero = () => {
     return (
-        <section className="urban-gradient text-white py-20 lg:py-32">
+        <section className="urban-gradient text-white py-20 lg:py-32 text-center">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-                <h2 className="hero-text text-5xl text-6xl md:text-8xl lg:text-9xl font-bold mb-6 tracking-tight">
+                <h2 className="hero-text text-5xl md:text-7xl font-bold mb-6 tracking-tight">
                     ESTILO URBANO
                     <span className="block text-amber-400">REDEFINIDO</span>
                 </h2>
